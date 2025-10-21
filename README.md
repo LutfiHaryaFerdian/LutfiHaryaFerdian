@@ -1,4 +1,6 @@
-## Hi there 👋
+![Lutfi Harya Ferdian](image/header_lutpi.png)
+
+#### Hello World! I'm Lutfi Harya Ferdian👋
 
 <!--
 **LutfiHaryaFerdian/LutfiHaryaFerdian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### My Skill
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+##### My Github Stats
+
+![Lutfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LutfiHaryaFerdian&show_icons=true&theme=tokyonight)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LutfiHaryaFerdian&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=LutfiHaryaFerdian&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LutfiHaryaFerdian/LutfiHaryaFerdian/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LutfiHaryaFerdian/LutfiHaryaFerdian/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LutfiHaryaFerdian/LutfiHaryaFerdian/output/pacman-contribution-graph.svg">
+</picture>
